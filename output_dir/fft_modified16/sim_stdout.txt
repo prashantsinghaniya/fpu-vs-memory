@@ -1,0 +1,13 @@
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 25.0.0.1
+gem5 compiled Oct 28 2025 20:39:06
+gem5 started Nov 26 2025 19:43:33
+gem5 executing on 30f263d25997, pid 90047
+command line: ../gem5/build/RISCV/gem5.opt --outdir=output_dir/fft_modified16 ../gem5/configs/deprecated/example/run_gem5.py --cpu-type=O3CPU --num-cpus=1 --caches --l2cache --cmd=dump_dir/fft_modified16
+
+**** REAL SIMULATION ****
+120 0 -8 40 -8 19 -8 12 -8 8 -8 5 -8 3 -8 2 -8 0 -8 -2 -8 -3 -8 -5 -8 -8 -8 -12 -8 -19 -8 -40 
+Exiting @ tick 6116000 because exiting with last active thread context
